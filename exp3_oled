@@ -63,3 +63,15 @@ void loop(){
   digitalWrite(yellowLed, LOW);
   digitalWrite(greenLed, LOW);
 }
+
+
+
+2->g
+3->y
+4->r
+gnd->gnd
+a0->a0
+o->vcc
+l->5v
+e->a5
+d->a4
