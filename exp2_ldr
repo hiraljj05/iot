@@ -14,3 +14,11 @@ void loop(){
     digitalWrite(3,LOW);
   }
 }
+
+
+
+5v->5v
+pin->3
+a0->a0
+g1->1(digital)(up)
+g2->analog(down)
